@@ -39,9 +39,11 @@ This allows participants and spectators to check information without modifying a
 The system uses **MySQLi for database connectivity** between PHP and the MySQL database.
 
 ## Screenshots
-
-Screenshots of the interface are included in this repository.
-These were captured from the original demo video of the project.
+<img width="1919" height="1079" alt="Screenshot 2026-03-07 134129" src="https://github.com/user-attachments/assets/9fc2ddc4-bee8-433a-a1b2-0a4e6c32a754" />
+<img width="1917" height="1079" alt="Screenshot 2026-03-07 134321" src="https://github.com/user-attachments/assets/27519d94-9bfe-41cf-b0dc-6af41c8e6753" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-07 134409" src="https://github.com/user-attachments/assets/2153367d-79bb-4396-83e7-f6903e054256" />
+<img width="1919" height="1077" alt="Screenshot 2026-03-07 134556" src="https://github.com/user-attachments/assets/9f255efb-9781-4a89-8c3a-1793bda1916d" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-07 134511" src="https://github.com/user-attachments/assets/97bcec78-0a1f-47c8-b4ac-cc5ed6d0a88a" />
 
 ## Project Structure
 
