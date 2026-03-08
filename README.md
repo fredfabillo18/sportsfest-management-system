@@ -1,7 +1,7 @@
 # Sportsfest Management System
 
 A simple **sportsfest dashboard** built for managing school intramurals.
-This project was originally created as a **high school Web Development class project** and is now archived here as a legacy project.
+This project was originally created as a **Web Development class project** and is now archived here as a legacy project.
 
 The system allows administrators to manage players, teams, sports events, and game schedules through a web interface, while anonymous users can view public information such as directories and schedules.
 
@@ -69,7 +69,7 @@ To run the system locally, a database schema would need to be recreated manually
 
 ## Background
 
-This project was developed as part of a **high school Web Development class**. It served as a simple exercise in:
+This project was developed as part of a **Web Development class**. It served as a simple exercise in:
 
 * CRUD web applications
 * user authentication
